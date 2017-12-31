@@ -1,0 +1,34 @@
+{
+    "movies":[
+        {
+            "title" : "Arrival",
+            "poster_image_url" : "https://upload.wikimedia.org/wikipedia/en/d/df/Arrival%2C_Movie_Poster.jpg",
+            "trailer_youtube_url" : "https://www.youtube.com/watch?v=70tLQczwm0k"
+        },
+        {
+            "title" : "Interstellar",
+            "poster_image_url" : "https://upload.wikimedia.org/wikipedia/en/b/bc/Interstellar_film_poster.jpg",
+            "trailer_youtube_url" : "https://www.youtube.com/watch?v=egkvnEYewMs"
+        },
+        {
+            "title" : "Insomnia",
+            "poster_image_url" : "http://www.gstatic.com/tv/thumb/movieposters/30021/p30021_p_v8_aa.jpg",
+            "trailer_youtube_url" : "https://www.youtube.com/watch?v=1OY5J11CWrE"
+        },
+        {
+            "title" : "The Departed",
+            "poster_image_url" : "http://www.gstatic.com/tv/thumb/movieposters/162564/p162564_p_v8_ag.jpg",
+            "trailer_youtube_url" : "https://www.youtube.com/watch?v=SGWvwjZ0eDc"
+        },
+        {
+            "title" : "Lion",
+            "poster_image_url" : "https://upload.wikimedia.org/wikipedia/en/f/f0/Lion_%282016_film%29.png?1514705134619",
+            "trailer_youtube_url" : "https://www.youtube.com/watch?v=-RNI9o06vqo"
+        },
+        {
+            "title" : "Dark Knight",
+            "poster_image_url" : "https://upload.wikimedia.org/wikipedia/en/8/8a/Dark_Knight.jpg",
+            "trailer_youtube_url" : "https://www.youtube.com/watch?v=EXeTwQWrcwY"
+        }
+    ]
+}
